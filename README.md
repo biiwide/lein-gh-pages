@@ -1,4 +1,4 @@
-# gh-pages
+# lein-gh-pages
 
 A Leiningen plugin to do many wonderful things.
 
